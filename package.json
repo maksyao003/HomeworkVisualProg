@@ -1,0 +1,15 @@
+{
+    "name": "3homework",
+    "version": "1.0.0",
+    "description": "A project to calculate cat breed statistics",
+    "main": "calcStatsFromAPI.test.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Maxim Fomenko",
+    "license": "MIT",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    },
+    "type": "module"
+}
