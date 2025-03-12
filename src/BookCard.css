@@ -1,0 +1,22 @@
+.book-card {
+    width: 150px;
+    text-align: center;
+    margin: 10px;
+  }
+  
+  .book-cover {
+    width: 100%;
+    height: auto;
+    max-height: 200px;
+    object-fit: cover;
+  }
+  
+  .book-title {
+    font-size: 1.2em; 
+    margin: 10px 0 5px;
+  }
+  
+  .book-authors {
+    font-size: 0.9em; 
+    color: #555;
+  }
