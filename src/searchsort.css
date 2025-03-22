@@ -1,0 +1,27 @@
+.search-sort {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .search-input {
+    padding: 8px;
+    width: 300px;
+    margin-right: 10px;
+    border: 5px solid;
+    border-radius: 4px;
+  }
+  
+  .sort-controls {
+    margin-top: 10px;
+  }
+  
+  .sort-controls label {
+    margin: 0 15px;
+  }
+  
+  .sort-controls select {
+    padding: 5px;
+    margin-left: 5px;
+    border: 3px solid;
+    border-radius: 4px;
+  }
