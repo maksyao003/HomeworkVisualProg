@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S5wqjHIuxF8=",
+  "success": true,
+  "projectFilePath": "/Users/maksyao/Desktop/учеба/visualPr/homework/10lab/10lab.csproj",
+  "expectedPackageFiles": [
+    "/Users/maksyao/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "/Users/maksyao/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+@_10lab_HostAddress = http://localhost:5093
+
+GET {{_10lab_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
