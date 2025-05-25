@@ -1,0 +1,6 @@
+@commDB_HostAddress = http://localhost:5128
+
+GET {{commDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
